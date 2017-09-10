@@ -1,0 +1,21 @@
+{
+  "name": "trivia2-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nm": "nodemon server.js"
+  },
+  "author": "self",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "lodash": "^4.17.4",
+    "node-fetch": "^1.7.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.0"
+  }
+}
